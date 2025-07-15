@@ -94,7 +94,7 @@ The project was conducted over four weeks, from March 7 to April 7, 2025, follow
 
 ## Authors and Credits
 
-- Lead Research and Design: Aruni
+- Lead Research and Design: Aruni Saxena (202418006) DAIICT
 - Visualization Methodology Inspired By: John Tukey, Edward Tufte, Ben Shneiderman, Cleveland & McGill
 - Dataset Author: Samuel Chinson (Kaggle Contributor)
 
